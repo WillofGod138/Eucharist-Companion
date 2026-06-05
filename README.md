@@ -37,6 +37,7 @@ A curated list of awesome Catholic projects, libraries and software.
 - [caminho-api](https://github.com/ElderFausto/caminho-api) - A public API, built with Python and FastAPI, that serves the 999 points of the book "The Way" by Saint Josemaria Escrivá in portuguese.
 
 ## Apps
+* [Eucharist Companion](willofgod138.github.io) - A mobile app centered on prayer and Scripture reflection, inspired by Jeremiah 33:3 ("God's Phone Number").
 
 - [Lectionary](https://github.com/Dev1an/Lectionary) - A beautifully designed app to view daily readings in different languages. Can export JSON to create booklets for Nightfever Leuven.
 - [Little Office](https://apps.apple.com/us/app/the-little-office/id6746760526) - The Little Office of the Blessed Virgin Mary for iOS, built with an elegant and easy to use UI. Android coming soon!
